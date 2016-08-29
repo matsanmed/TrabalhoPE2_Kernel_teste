@@ -6,7 +6,9 @@ p2 = imfilter(p,asd);
 imshow(p), title('Imagem Original')
 figure, imshow(p2), title('Imagem Filtrada')
 
+%%teste%teste%teste
 
+%teste teste teste
 %Questão 02
 dbz=imread('dz.jpg');
 im_original=rgb2gray(dbz);
